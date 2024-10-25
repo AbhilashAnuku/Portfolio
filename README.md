@@ -31,8 +31,8 @@ I am a **passionate full-stack developer** specializing in backend development w
 ---
 
 ## 📫 Get in Touch  
-- **GitHub:** https://github.com/AbhilashAnuku(https://github.com/AbhilashAnuku)  
-- **LinkedIn:** LinkedIn Profile (https://linkedin.com/in/abhilash-anuku-457041251)  
+- **GitHub:** [https://github.com/AbhilashAnuku](https://github.com/AbhilashAnuku)  
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/abhilash-anuku-457041251)  
 - **Email:** abhilashanuku14@gmail.com  
 
 ---
