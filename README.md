@@ -38,7 +38,7 @@ I am a **passionate full-stack developer** specializing in backend development w
 ---
 
 ## 📃 Resume  
-[Click here](#) to view my resume.
+[Click here](AbhilashAnuku-CV.pdf) to view my resume.
 
 ---
 
